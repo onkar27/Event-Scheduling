@@ -1,0 +1,7 @@
+Event Scheduling: 
+
+Given a set of N events, e.g., events in college festival, each student is asked to choose M events 
+of his/her choice, in order of decreasing reference. If there are K slots available to schedule the events out of which 
+at most P slots can be held in parallel, output a schedule that maximizes the happiness of most students. You are free to
+choose the definition of “happiness” as long as the definition is reasonable. The algorithm should work for any given
+N, M, K, P and the preference list of any number of students.
